@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "mgmcdermott.vscode-language-babel",
+    "naumovs.color-highlight",
+    "knisterpeter.vscode-github",
+    "remimarsal.prettier-now",
+    "jamesbirtles.svelte-vscode",
+    "wayou.vscode-todo-highlight",
+  ]
+}
